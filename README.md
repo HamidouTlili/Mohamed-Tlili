@@ -41,5 +41,5 @@ I regularly solve mobile security Capture The Flag (CTF) challenges. Check out m
 
 ## 🤝 Let's Connect!
 
-[<img align="left" alt="LinkedIn | Mohamed Tlili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohamed-tlili)
+[<img align="left" alt="LinkedIn | Mohamed Tlili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohamed-abdelhamid-tlili-a77542267/)
 [<img align="left" alt="GitHub | HamidouTlili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/HamidouTlili)
