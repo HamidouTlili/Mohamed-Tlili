@@ -9,35 +9,35 @@ I'm passionate about **CyberDefense**, **Applied Cryptography**, and **Incident 
 
 - **Cryptography Toolkit (Python)**
   - *Applied Cryptography with various ciphers (AES, RSA, Vigenère) and file encryption.*
-  - [Repository Link](https://github.com/HamidouTlili/hamidou_cryptography_toolkit)
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/hamidou_cryptography_toolkit)
 
 - **Firewall with Threat Intelligence Integration (Python)**
   - *Developed a stateful firewall with VirusTotal and AbuseIPDB integration.*
-  - [Repository Link](https://github.com/HamidouTlili/hamidou_firewall)
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/hamidou_firewall)
 
 - **WHOIS Lookup Tool (Python)**
   - *Python-based WHOIS lookup utility to retrieve domain registration details.*
-  - [Repository Link](https://github.com/HamidouTlili/hamidou_whois_lookup)
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/hamidou_whois_lookup)
 
 - **Password Generation and Evaluation Tool (Python)**
   - *Generates password variations based on user info and evaluates strength using AI.*
-  - [Repository Link](https://github.com/HamidouTlili/hamidoupassgen)
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/hamidoupassgen)
 
 - **Port Scanner (Python)**
   - *A custom port scanning tool to identify open ports on a given target.*
-  - [Repository Link](https://github.com/HamidouTlili/scanner)
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/scanner)
 
 - **Proxy Server (Python)**
   - *Built a custom proxy server with authentication and additional features.*
-  - [Repository Link](https://github.com/HamidouTlili/hamidou_proxy_server)
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/hamidou_proxy_server)
 
 - **Honeypot (Python)**
   - *Created a basic honeypot to detect unauthorized access attempts.*
-  - [Repository Link](https://github.com/HamidouTlili/honeypot)
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/honeypot)
 
 - **Hash Tool (Python)**
   - *Custom hashing utility with multiple hash functions and encryption.*
-  - [Repository Link](https://github.com/HamidouTlili/hamidou_hash_tool)
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/hamidou_hash_tool)
 
 ---
 
