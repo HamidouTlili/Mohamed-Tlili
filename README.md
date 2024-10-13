@@ -21,7 +21,23 @@ I'm passionate about **CyberDefense**, **Applied Cryptography**, and **Incident 
 
 - **Password Generation and Evaluation Tool (Python)**
   - *Generates password variations based on user info and evaluates strength using AI.*
-  - [Repository Link](https://github.com/HamidouTlili/hamidou_password_tool)
+  - [Repository Link](https://github.com/HamidouTlili/hamidoupassgen)
+
+- **Port Scanner (Python)**
+  - *A custom port scanning tool to identify open ports on a given target.*
+  - [Repository Link](https://github.com/HamidouTlili/scanner)
+
+- **Proxy Server (Python)**
+  - *Built a custom proxy server with authentication and additional features.*
+  - [Repository Link](https://github.com/HamidouTlili/hamidou_proxy_server)
+
+- **Honeypot (Python)**
+  - *Created a basic honeypot to detect unauthorized access attempts.*
+  - [Repository Link](https://github.com/HamidouTlili/honeypot)
+
+- **Hash Tool (Python)**
+  - *Custom hashing utility with multiple hash functions and encryption.*
+  - [Repository Link](https://github.com/HamidouTlili/hamidou_hash_tool)
 
 ---
 
