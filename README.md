@@ -38,7 +38,9 @@ I'm passionate about **CyberDefense**, **Applied Cryptography**, and **Incident 
 - **Hash Tool (Python)**
   - *Custom hashing utility with multiple hash functions and encryption.*
   - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/hamidou_hash_tool)
-
+- **Two-Factor Authenticator (Python)**
+  - *Implemented a TOTP-based two-factor authentication tool. Generates QR codes for authenticator apps and verifies OTPs for added security.
+  - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/authenticator)
 ---
 
 ## 📺 CTF Solutions on YouTube
