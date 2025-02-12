@@ -42,6 +42,11 @@ I'm passionate about **CyberDefense**, **Applied Cryptography**, and **Incident 
   - *Implemented a TOTP-based two-factor authentication tool. Generates QR codes for authenticator apps and verifies OTPs for added security.
   - [Repository Link](https://github.com/HamidouTlili/python-projects/tree/master/authenticator)
 ---
+- **Deploying and Securing Kubernetes with NGINX, Prometheus & Grafana**
+  - *Implemented security monitoring and attack detection on university cloud infrastructure.*
+  - 📄 [Project Documentation (PDF)](https://github.com/HamidouTlili/cloud-security-projects/blob/main/Deploying%20and%20Securing%20Kubernetes.pdf)
+
+---
 
 ## 📺 CTF Solutions on YouTube
 ### Mobile Security CTFs Solution Videos
@@ -49,9 +54,6 @@ I  solve mobile security Capture The Flag (CTF) challenges. Check out my detaile
 - [CTF Solution Walkthroughs - YouTube Channel](https://www.youtube.com/@medtlili-kh3fz/videos)
 
 ---
-- **Deploying and Securing Kubernetes with NGINX, Prometheus & Grafana**
-  - *Implemented security monitoring and attack detection on university cloud infrastructure.*
-  - 📄 [Project Documentation (PDF)](https://github.com/HamidouTlili/cloud-security-projects/blob/main/Deploying%20and%20Securing%20Kubernetes.pdf)
 
 
 ## 🌱 Courses and Certifications
