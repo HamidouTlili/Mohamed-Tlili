@@ -45,10 +45,14 @@ I'm passionate about **CyberDefense**, **Applied Cryptography**, and **Incident 
 
 ## 📺 CTF Solutions on YouTube
 ### Mobile Security CTFs Solution Videos
-I regularly solve mobile security Capture The Flag (CTF) challenges. Check out my detailed walkthroughs on my YouTube channel:
+I  solve mobile security Capture The Flag (CTF) challenges. Check out my detailed walkthroughs on my YouTube channel:
 - [CTF Solution Walkthroughs - YouTube Channel](https://www.youtube.com/@medtlili-kh3fz/videos)
 
 ---
+- **Deploying and Securing Kubernetes with NGINX, Prometheus & Grafana**
+  - *Implemented security monitoring and attack detection on university cloud infrastructure.*
+  - 📄 [Project Documentation (PDF)](https://github.com/HamidouTlili/cloud-security-projects/blob/main/Deploying%20and%20Securing%20Kubernetes.pdf)
+
 
 ## 🌱 Courses and Certifications
 - **SOC Analyst Tier 1 (TryHackMe)**
